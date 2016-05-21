@@ -167,15 +167,38 @@ U\boldsymbol{x} = \boldsymbol{c}
 $$
 其中$$U = E_k\dotsm E_1A$$，且$$\boldsymbol{c} = E_k \dotsm E_1\boldsymbol{b}$$.
 
-#### 1.5.2 类型I
+#### 1.5.2 初等矩阵
 
-第I类初等矩阵交换矩阵I的两行得到
+**类型I**
+
+**第I类初等矩阵交换矩阵$$I$$的两行得到**
 
 > 例如
 $$
 E_1 = 
+\begin{bmatrix}
+       0 & 1 & 0 \\
+       1 & 0 & 0 \\
+       0 & 0 & 1
+\end{bmatrix}
 
 $$
+
+**类型II**
+
+**第II类初等矩阵由单位矩阵$$I$$的某一行乘以一个非零常数得到
+
+> 例如
+$$
+E_2 = 
+\begin{bmatrix}
+       1 & 0 & 0 \\
+       0 & 1 & 0 \\
+       0 & 0 & 3
+\end{bmatrix}
+
+$$
+
 
 
 
