@@ -101,6 +101,18 @@ $$子空间$$N(A)$$ 称为$$A$$的**零空间(nullspace)**.
 
 #### 3.2.3 向量空间的张集
 
+令$$\boldsymbol{v_1, v_2, \dotsc, v_n}$$为向量空间$$V$$中的向量. 我们用$$Span(\boldsymbol{v_1, v_2, \dotsc, v_n})$$表示由向量$$\boldsymbol{v_1, v_2, \dotsc, v_n}$$张成的$$V$$的子空间. 可能有$$Span(\boldsymbol{v_1, v_2, \dotsc, v_n}) = V$$的情形，此时，我们说向量$$\boldsymbol{v_1, v_2, \dotsc, v_n}$$张成$$V$$，或者$$\{\boldsymbol{v_1, v_2, \dotsc, v_n}\}$$是$$V$$的一个**张集(spanning set)**
+
+**定义** $$\{\boldsymbol{v_1, v_2, \dotsc, v_n}\}$$是$$V$$的一个**张集(spanning set)**的充要条件为$$V$$中的每个向量都可以写成$$\{\boldsymbol{v_1, v_2, \dotsc, v_n}\}$$的一个线性组合.
+
+
+
+
+
+
+
+
+
 
 
 
