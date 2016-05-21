@@ -94,6 +94,12 @@ $$子空间$$N(A)$$ 称为$$A$$的**零空间(nullspace)**.
 
 #### 3.2.2 向量集合的张成
 
+**定义** 令$$\boldsymbol{v_1, v_2, \dotsc, v_n}$$为向量空间$$V$$中的向量. $$\alpha_1\boldsymbol{v_1} + \alpha_2\boldsymbol{v_2} + \dotsb + \alpha_n\boldsymbol{v_n}(其中\alpha_1, \alpha_2, \dotsc, \alpha_n为标量)$$称为向量$$\boldsymbol{v_1, v_2, \dotsc, v_n}$$的**线性组合(linear combination)**. 向量$$\boldsymbol{v_1, v_2, \dotsc, v_n}$$的所有线性组合构成的集合称为$$\boldsymbol{v_1, v_2, \dotsc, v_n}$$的**张成(span)**. 向量$$\boldsymbol{v_1, v_2, \dotsc, v_n}$$的张成记为$$Span(\boldsymbol{v_1, v_2, \dotsc, v_n})$$.
+
+**定理** 若$$\boldsymbol{v_1, v_2, \dotsc, v_n}$$为向量空间$$V$$中的元素，则$$Span(\boldsymbol{v_1, v_2, \dotsc, v_n})$$为$$V$$的一个子空间
+
+
+
 
 
 
