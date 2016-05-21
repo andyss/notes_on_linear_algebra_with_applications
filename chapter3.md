@@ -29,4 +29,11 @@ $$
 #### 3.1.3 向量空间的公理
 
 **定义** 令$$V$$为一定义了加法和标题乘法运算的集合. 这意味着，对$$V$$中的每一对元素$$\boldsymbol{x}$$和$$\boldsymbol{y}$$，可惟一对就于$$V$$中的一个元素$$\boldsymbol{x} + \boldsymbol{y}$$，且对于每一个$$V$$中的元素$$\boldsymbol{x}$$和每一个标量$$\alpha$$，可以惟一对应于$$V$$中的元素$$\alpha\boldsymbol{x}$$. 如果集合$$V$$连同其上的加法和标量剩法运算满足下面的公理，则称为**向量空间(vector space)**.
-
+1. 对$$V$$中的任何$$\boldsymbol{x}$$和$$\boldsymbol{y}$$，$$\boldsymbol{x} + \boldsymbol{y} = \boldsymbol{y} + \boldsymbol{x}$$
+2. 对$$V$$中的任何$$\boldsymbol{x}$$，$$\boldsymbol{y}$$，$$\boldsymbol{z}$$，$$(\boldsymbol{x} + \boldsymbol{y}) + \boldsymbol{z} = \boldsymbol{x} + (\boldsymbol{y} + \boldsymbol{z})$$
+3. $$V$$中存在一个元素$$\boldsymbol{0}$$，满足对任意的$$\boldsymbol{x} \in V$$有$$\boldsymbol{x} + \boldsymbol{0} = \boldsymbol{x}$$
+4. 对每一个$$\boldsymbol{x} \in V$$，存在$$V$$中的一个元素$$-\boldsymbol{x}$$，满足$$\boldsymbol{x} + (-\boldsymbol{x}) = \boldsymbol{0}$$
+5. 对任意的标量$$\alpha$$和$$V$$中的元素$$\boldsymbol{x}$$和$$\boldsymbol{y}$$，有$$\alpha(\boldsymbol{x} + \boldsymbol{y}) = \alpha\boldsymbol{x} + \alpha\boldsymbol{y}$$
+6. 对任意标量$$\alpha$$和$$\beta$$及$$\boldsymbol{x} \in V$$，有$$(\alpha + \beta)\boldsymbol{x} = \alpha\boldsymbol{x} + \beta\boldsymbol{x}$$
+7. 对任意标量$$\alpha$$和$$\beta$$及$$\boldsymbol{x} \in V$$，有$$(\alpha\beta)\boldsymbol{x} = \alpha(\beta\boldsymbol{x})$$
+8. 对所有的$$\boldsymbol{x} \in V$$. 有$$1 \dot \boldsymbol{x} = \boldsymbol{x}$$
