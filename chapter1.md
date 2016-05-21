@@ -157,11 +157,27 @@ $$
 
 #### 1.5.1 等价方程组
 
-
+给定一$$m \times n$$线性方程组$$A\boldsymbol{x} = \boldsymbol{b}$$，如果在两端同乘一个非奇异的$$m \times n$$矩阵$$M$$，得到它的一个等价方程组
+$$
+MA\boldsymbol{x} = M\boldsymbol{b}
+$$
+我们可以将一系列的非奇异的矩阵$$E_1, \dotsc, E_k$$应用到方程组$$A\boldsymbol{x} = \boldsymbol{b}$$，的两端，从而得到一个较为简单的方程组
+$$
+U\boldsymbol{x} = \boldsymbol{c}
+$$
+其中$$U = E_k\dotsm E_1A$$，且$$\boldsymbol{c} = E_k \dotsm E_1\boldsymbol{b}$$.
 
 #### 1.5.2 类型I
 
 第I类初等矩阵交换矩阵I的两行得到
+
+> 例如
+$$
+E_1 = 
+
+$$
+
+
 
 
 
