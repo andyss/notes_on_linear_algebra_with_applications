@@ -126,7 +126,13 @@ $$
 $$
 x_i = \frac{det(A_i)}{det(A)}, \quad i = 1, 2, \dotsc, n
 $$
-#### 2.3.3 向量积
+#### 2.3.3 向量长度
+
+若$$\boldsymbol{x}$$是$$R^2$$或$$R^3$$中的一个向量，则$$\boldsymbol{x}$$的长度记为$$\|\boldsymbol{x}\|$$
+$$
+\|\boldsymbol{x}\| = (\boldsymbol{x}^T\boldsymbol{x})^{\frac{1}{2}}
+$$
+
 
 
 
