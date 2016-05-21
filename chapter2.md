@@ -122,6 +122,13 @@ $$
 
 #### 2.3.2 克拉默法则
 
+** 定理 ** 令$$A$$为一$$n\times n$$非奇异矩阵，并令$$b \in R^n$$. 令$$A_i$$为将矩阵$$A$$中的第$$i$$列替换得到的矩阵，若$$\boldsymbol{x}$$为方程组$$A\boldsymbol{x} = \boldsymbol{b}$$的惟一解，则
+$$
+x_i = \frac{det(A_i)}{det(A)}, \quad i = 1, 2, \dotsc, n
+$$
+
+
+
 
 
 
