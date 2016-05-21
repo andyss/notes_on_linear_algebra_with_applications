@@ -322,6 +322,7 @@ XY^T = \boldsymbol{(x_1, x_2, \dotsc, x_n)}
 = \boldsymbol{x_1y_1^T + x_2y_2^T + \dotsb + x_ny_n^T} 
 
 $$
+称为**外积展开(outer product expansion)**.
 
 
 
