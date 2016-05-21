@@ -15,6 +15,10 @@ $$
 \end{bmatrix}
 \quad 和 \quad \boldsymbol{x} + \boldsymbol{y} = 
 \begin{bmatrix}
-
+x_1 + y_1 \\
+x_2 + y_2 \\
+\vdots \\
+x_n + y_n
 \end{bmatrix}
 $$
+
