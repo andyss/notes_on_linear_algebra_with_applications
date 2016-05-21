@@ -123,9 +123,9 @@ $$则称它们为**线性相关的(linearly dependent)**.
 **定理** 令$$\boldsymbol{v_1, v_2, \dotsc, v_n}$$为向量空间$$V$$中的向量，当且仅当$$\boldsymbol{v_1, v_2, \dotsc, v_n}$$线性无关时，$$Span(\boldsymbol{v_1, v_2, \dotsc, v_n})$$中的任一向量$$\boldsymbol{v}$$才可惟一地用向量$$\boldsymbol{v_1, v_2, \dotsc, v_n}$$的线性组合表示.
 
 
+#### 3.3.1 函数的向量空间
 
-#### 3.3.1 向量空间$$P_n$$
-
+**向量空间$$P_n$$**
 
 
 
