@@ -140,7 +140,17 @@ $$若左则的多项式可写为$$a_1x^{n-1} + a_2x^{n-2} + \dotsb + a_{n-1}x + 
 **定义** 令$$f_1, f_2, \dotsc, f_n$$为$$C^{(n-1)}[a, b]$$的函数，定义$$[a, b]$$上的函数$$W[f_1, f_2, \dotsc, f_n](x)$$为
 $$
 W[f_1, f_2, \dotsc, f_n](x) = 
+\left|\begin{array}{cccc}   
+f_1(x) & f_2(x) & \dotsc & f_n(x) \\
+f_1'(x) & f_2'(x) & \dotsc & f_n'(x) \\
+\vdots & & & \\
+f_1^{(n-1)}(x) & f_2^{(n-1)}(x) & \dotsc & f_n^{(n-1)}(x)
+\end{array}\right|   
 $$
+
+函数$$W[f_1, f_2, \dotsc, f_n](x)$$称为$$f_1, f_2, \dotsc, f_n$$的**郎斯基行列式**.
+
+
 
 
 
