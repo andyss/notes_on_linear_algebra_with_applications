@@ -277,6 +277,54 @@ $$
 我们称
 $$
 \boldsymbol{x}^T\boldsymbol{y} = (x_1, x_2, \dotsc, x_n)
+\begin{bmatrix}
+       y_1 \\
+       y_2 \\
+       \vdots \\
+       y_n
+\end{bmatrix}
+= x_1y_1 + x_2y_2 + \dotsb + x_ny_n
+$$
+这种乘积称为**标量积(scalar product)**或**内积(inner product)**.
+
+
+我们将
+$$
+\boldsymbol{xy}^T = \begin{bmatrix}
+       x_1 \\
+       x_2 \\
+       \vdots \\
+       x_n
+\end{bmatrix}
+(y_1, y_2, \dotsc, y_n) = 
+\begin{bmatrix}
+       x_1y_1 & x_2y_2 & \dotsc & x_1y_n \\
+       x_2y_1 & x_2y_2 & \dotsc & x_2y_n \\
+       \vdots &        &        &        \\
+       x_ny_1 & x_ny_2 & \dotsc & x_ny_n
+\end{bmatrix}
+$$
+
+这种乘积称为**外积(outer product)**.
+
+
+我们可以推广到矩阵，
+$$
+XY^T = \begin{bmatrix}
+\boldsymbol{
+       x_1 \\
+       x_2 \\
+       \vdots \\
+       x_n
+}
+\end{bmatrix}
+(y_1, y_2, \dotsc, y_n) = 
+\begin{bmatrix}
+       x_1y_1 & x_2y_2 & \dotsc & x_1y_n \\
+       x_2y_1 & x_2y_2 & \dotsc & x_2y_n \\
+       \vdots &        &        &        \\
+       x_ny_1 & x_ny_2 & \dotsc & x_ny_n
+\end{bmatrix}
 $$
 
 
