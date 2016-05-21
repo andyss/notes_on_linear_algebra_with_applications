@@ -26,3 +26,7 @@ $$
 
 一般地，用$$R^{m\times n}$$表示所有$$m \times n$$实矩阵的集合. 若$$A = (a_{ij})$$，且$$B = (b_{ij})$$，则它们的和$$A + B$$定义为$$m\times n$$矩阵$$C = (c_{ij})$$，其中$$c_{ij} = a_{ij} + b_{ij}$$. 给定标量$$\alpha$$，可定义$$\alpha A$$为一$$m\times n$$矩阵，它的$$(i, j)$$元素为$$\alpha a_{ij}$$.
 
+#### 3.1.3 向量空间的公理
+
+**定义** 令$$V$$为一定义了加法和标题乘法运算的集合. 这意味着，对$$V$$中的每一对元素$$\boldsymbol{x}$$和$$\boldsymbol{y}$$，可惟一对就于$$V$$中的一个元素$$\boldsymbol{x} + \boldsymbol{y}$$，且对于每一个$$V$$中的元素$$\boldsymbol{x}$$和每一个标量$$\alpha$$，可以惟一对应于$$V$$中的元素$$\alpha\boldsymbol{x}$$. 如果集合$$V$$连同其上的加法和标量剩法运算满足下面的公理，则称为**向量空间(vector space)**.
+
