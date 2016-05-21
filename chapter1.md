@@ -133,7 +133,14 @@ $$
 *定义* $$n \times n$$的**单位矩阵(identity matrix)**为矩阵$$I = (\delta_{ij})$$，其中
 $$
 \delta_{ij} = 
+  \begin{cases}
+    1  & \quad 当 i = j \\
+    0  & \quad 当 i \neq j \\
+  \end{cases}
 $$
+
+
+#### 1.4.3 矩阵的逆
 
 
 
