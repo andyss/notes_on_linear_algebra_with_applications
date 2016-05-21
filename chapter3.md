@@ -118,6 +118,10 @@ $$
 c_1\boldsymbol{v_1} + c_2\boldsymbol{v_2} + \dotsb + c_n\boldsymbol{v_n} = \boldsymbol{0}
 $$则称它们为**线性相关的(linearly dependent)**.
 
+**定理** 令$$\boldsymbol{x_1, x_2, \dotsc, x_n}$$为$$R^n$$中的$$n$$个向量，并令$$X = (x_1, x_2, \dotsc, x_n)$$. 向量$$\boldsymbol{x_1, x_2, \dotsc, x_n}$$线性相关的充要条件是$$X$$为奇异的.
+
+**定理** 令$$\boldsymbol{v_1, v_2, \dotsc, v_n}$$为向量空间$$V$$中的向量，当且仅当$$\boldsymbol{v_1, v_2, \dotsc, v_n}$$线性无关时，$$Span(\boldsymbol{v_1, v_2, \dotsc, v_n})$$中的任一向量$$\boldsymbol{v}$$才可惟一地用向量$$\boldsymbol{v_1, v_2, \dotsc, v_n}$$的线性组合表示.
+
 
 
 
