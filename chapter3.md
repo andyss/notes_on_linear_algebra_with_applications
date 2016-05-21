@@ -66,3 +66,15 @@ $$
 $$
 z(x) = 0x^{n-1} + 0x^{n-2} + \dotsb + 0x + 0
 $$
+#### 3.1.6 微量空间的其他性质
+
+**定理** 若$$V$$为向量空间，且$$x$$为$$V$$的任一元素，则
+* $$0\boldsymbol{x} = \boldsymbol{0}$$
+* $$\boldsymbol{x} + \boldsymbol{y} = 0$$蕴涵$$\boldsymbol{y} = -\boldsymbol{x}$$(即$$\boldsymbol{x}$$的加法逆元是惟一的)
+* $$(-1)\boldsymbol{x} = -\boldsymbol{x}$$
+
+### 3.2 子空间
+
+
+
+
