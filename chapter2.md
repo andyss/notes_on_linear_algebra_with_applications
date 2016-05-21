@@ -77,5 +77,16 @@ $$
 $$
 det(EA) = det(E)det(A)
 $$
+其中
+$$
+det(E) = 
+\begin{cases}
+    -1  & \quad 当 E 为第I类初等矩阵 \\
+    \alpha \neq 0  & \quad 当 E 为第II类初等矩阵 时 \\
+    1 \neq 0  & \quad 当 E 为第III类初等矩阵 时 \\
+\end{cases}
+
+$$
+
 
 
