@@ -261,7 +261,16 @@ A = \begin{bmatrix}
 $$
 则
 $$
-AB = 
+AB = \begin{bmatrix}
+       C_{11} & \dotsc & C_{1r} \\
+       \vdots &        &        \\
+       C_{s1} & \dotsc & C_{sr}
+\end{bmatrix}
+$$
+
+其中
+$$
+C_{ij} = \sum_{k = 1}^tA_{ik}B_{kj}
 $$
 
 
