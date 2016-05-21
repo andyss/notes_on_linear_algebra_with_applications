@@ -80,9 +80,11 @@ $$
 
 则称其为**行最简形(reduced row echelon form)**.
 
-*定义* 如果线性方程组的右端若项全为零，则称其为**齐次的(homogeneous)**. 即$$A\bf{x} = 0$$的时候.
+*定义* 如果线性方程组的右端若项全为零，则称其为**齐次的(homogeneous)**. 即$$A\boldsymbol{x} = 0$$的时候.
 
 
 ### 1.3 矩阵算术
+
+我们一般用$$\overrightarrow{x}$$表示**行向量(row vector)**，用加粗的小字母$$\boldsymbol{x}$$表示**列向量(column vector)**. 我们一般将列向量简称为向量.
 
 
