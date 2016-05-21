@@ -77,7 +77,7 @@ $$
 
 **定义** 若$$S$$为向量空间$$V$$的非空子集，且$$S$$满足如下条件：
 * 对任意标量$$\alpha$$，若$$\boldsymbol{x} \in S$$，则$$\alpha\boldsymbol{x} \in S$$
-* 若$$\boldsymbol{x} \in S$$且$$\boldsymbol{y} \in S$$，则$$\boldsymbol{x} + \boldsymbol{x} \in S$$
+* 若$$\boldsymbol{x} \in S$$且$$\boldsymbol{y} \in S$$，则$$\boldsymbol{x} + \boldsymbol{y} \in S$$
 
 则$$S$$称为$$V$$的**子空间(subspace)**.
 
