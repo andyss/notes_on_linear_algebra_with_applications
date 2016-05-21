@@ -22,6 +22,14 @@ A_{ij} = (-1)^{1+j}det(M_{1j}), j = 1, \dotsc, n
 $$
 **定理** 设$$A$$为一$$n \times n$$矩阵，其中$$n \geq 2$$，则$$det(A)$$可表示为$$A$$的任何行或列的余子式展开，即
 $$
-
+\begin{align}
+det(A) = a_{i1}A_{i1} + a_{i2}A_{i2} + \dotsb + a_{in}A_{in} \\
+=  a_{1j}A_{1j} + a_{2j}A_{2j} + \dotsb + a_{nj}A_{nj} \\
+\end{align}
 $$
+其中$$i=1, \dotsc, n, 且j = 1, \dotsc, n$$.
+
+**定理** 设$$A$$为一$$n\times n$$矩阵，则$$det(A^T) = det(A)$$.
+
+
 
