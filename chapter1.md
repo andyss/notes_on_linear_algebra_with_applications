@@ -310,22 +310,19 @@ $$
 
 我们可以推广到矩阵，
 $$
-XY^T = \begin{bmatrix}
+XY^T = \boldsymbol{(x_1, x_2, \dotsc, x_n)}
+\begin{bmatrix}
 \boldsymbol{
-       x_1 \\
-       x_2 \\
+       y_1^T \\
+       y_2^T \\
        \vdots \\
-       x_n
+       y_n^T
 }
 \end{bmatrix}
-(y_1, y_2, \dotsc, y_n) = 
-\begin{bmatrix}
-       x_1y_1 & x_2y_2 & \dotsc & x_1y_n \\
-       x_2y_1 & x_2y_2 & \dotsc & x_2y_n \\
-       \vdots &        &        &        \\
-       x_ny_1 & x_ny_2 & \dotsc & x_ny_n
-\end{bmatrix}
+= \boldsymbol{x_1y_1^T + x_2y_2^T + \dotsb + x_ny_n^T} 
+
 $$
+
 
 
 
