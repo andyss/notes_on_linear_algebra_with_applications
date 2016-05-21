@@ -142,7 +142,14 @@ $$
 
 #### 1.4.3 矩阵的逆
 
-*定义* 若存在一个矩阵$$B$$使得$$AB = BA = I$$，则称$$n \times n$$矩阵$$A$$为**非奇异的(nonsingular)**或**可逆的(invertible)**. 矩阵$$B$$
+*定义* 若存在一个矩阵$$B$$使得$$AB = BA = I$$，则称$$n \times n$$矩阵$$A$$为**非奇异的(nonsingular)**或**可逆的(invertible)**. 矩阵$$B$$称为$$A$$的**乘法逆元(multiplicative inverse)**.
+
+
+#### 1.4.4 转置
+
+* $$(A^T)^T = A$$
+* $$(\alpha A)^T = \alpha A^T$$
+* 
 
 
 
