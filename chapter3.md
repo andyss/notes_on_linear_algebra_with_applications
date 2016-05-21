@@ -99,6 +99,8 @@ $$子空间$$N(A)$$ 称为$$A$$的**零空间(nullspace)**.
 **定理** 若$$\boldsymbol{v_1, v_2, \dotsc, v_n}$$为向量空间$$V$$中的元素，则$$Span(\boldsymbol{v_1, v_2, \dotsc, v_n})$$为$$V$$的一个子空间
 
 
+#### 3.2.3 向量空间的张集
+
 
 
 
