@@ -108,6 +108,11 @@ $$子空间$$N(A)$$ 称为$$A$$的**零空间(nullspace)**.
 
 ### 3.3 线性无关
 
+**定义** 如果向量空间$$V$$中的向量$$\boldsymbol{v_1, v_2, \dotsc, v_n}$$满足
+$$
+c_1\boldsymbol{v_1} + c_2\boldsymbol{v_2} + \dotsb + c_n\boldsymbol{v_n} = \boldsymbol{0}
+$$就可以推出所有标量$$c_1, \dotsb, c_n$$必为0，则称它们为**线性无关的(linearly independent)**.
+
 
 
 
