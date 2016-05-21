@@ -101,7 +101,7 @@ $$
 
 **线性组合**
 
-*定义* 若$$\boldsymbol{a_1, a_2, \dotsc, a_n}$$，为$$R^m$$中的向量，且$$c_1, c_2, \dotsc, c_n$$为标题，则和式
+**定义** 若$$\boldsymbol{a_1, a_2, \dotsc, a_n}$$，为$$R^m$$中的向量，且$$c_1, c_2, \dotsc, c_n$$为标题，则和式
 $$
 c_1\boldsymbol{a_1} + c_2\boldsymbol{a_2} + \dotsb + c_n\boldsymbol{a_n}
 $$
@@ -109,7 +109,7 @@ $$
 
 ** 矩阵乘法**
 
-*定义* 若$$A = (a_{ij})$$为一个$$m \times n$$的矩阵，且$$B = (b_{ij})$$为一个$$n \times r$$的矩阵，则乘积$$AB = C = (c_{ij})$$为一个$$m \times r$$的矩阵，它的元素定义为
+**定义** 若$$A = (a_{ij})$$为一个$$m \times n$$的矩阵，且$$B = (b_{ij})$$为一个$$n \times r$$的矩阵，则乘积$$AB = C = (c_{ij})$$为一个$$m \times r$$的矩阵，它的元素定义为
 $$
 c_{ij} = \boldsymbol{\overrightarrow{a_i}b_j} = \sum_{k = 1}^n a_{ik}b_{kj}
 $$
@@ -130,7 +130,7 @@ $$
 
 #### 1.4.2 单位矩阵
 
-*定义* $$n \times n$$的**单位矩阵(identity matrix)**为矩阵$$I = (\delta_{ij})$$，其中
+**定义** $$n \times n$$的**单位矩阵(identity matrix)**为矩阵$$I = (\delta_{ij})$$，其中
 $$
 \delta_{ij} = 
   \begin{cases}
@@ -142,7 +142,7 @@ $$
 
 #### 1.4.3 矩阵的逆
 
-*定义* 若存在一个矩阵$$B$$使得$$AB = BA = I$$，则称$$n \times n$$矩阵$$A$$为**非奇异的(nonsingular)**或**可逆的(invertible)**. 矩阵$$B$$称为$$A$$的**乘法逆元(multiplicative inverse)**.
+**定义** 若存在一个矩阵$$B$$使得$$AB = BA = I$$，则称$$n \times n$$矩阵$$A$$为**非奇异的(nonsingular)**或**可逆的(invertible)**. 矩阵$$B$$称为$$A$$的**乘法逆元(multiplicative inverse)**.
 
 
 #### 1.4.4 转置
@@ -214,21 +214,21 @@ E_3 =
 
 $$
 
-*定理 1.5.2.1* **若$$E$$为一初等矩阵，则$$E$$是非奇异的，且$$E^{-1}$$为一与它同类型的初等矩阵.**
+**定理 1.5.2.1** **若$$E$$为一初等矩阵，则$$E$$是非奇异的，且$$E^{-1}$$为一与它同类型的初等矩阵.**
 
-*定义* 若存在一个有限初等矩阵的序列$$E_1, E_2, \dotsc, E_k$$，使得
+**定义** 若存在一个有限初等矩阵的序列$$E_1, E_2, \dotsc, E_k$$，使得
 $$
 B = E_kE_{k-1}\dotsm E_1A
 $$则称$$A$$与$$B$$为**行等价的(row equivalent)**.
 
 
 
-*定理 1.5.2.2* 令$$A$$为一$$n \times n$$矩阵，则下列命题是等价的
+**定理 1.5.2.2** 令$$A$$为一$$n \times n$$矩阵，则下列命题是等价的
 * $$A$$是非奇异的
 * $$A\boldsymbol{x} = 0$$公有平凡解0
 * $$A$$与$$I$$等价
 
-*推论 1.5.2.3* **当且仅当$$A$$非奇异时，$$n$$个未知量$$n$$个方程的线性方程组$$A\boldsymbol{x} = \boldsymbol{b}$$有惟一解.**
+**推论 1.5.2.3** 当且仅当$$A$$非奇异时，$$n$$个未知量$$n$$个方程的线性方程组$$A\boldsymbol{x} = \boldsymbol{b}$$有惟一解.
 
 
 #### 1.5.3 对角矩阵和三角形矩阵
