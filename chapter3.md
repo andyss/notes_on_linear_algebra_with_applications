@@ -92,8 +92,6 @@ N(A) = \{\boldsymbol{x} \in R^n  \mid  A\boldsymbol{x} = 0\}
 $$子空间$$N(A)$$ 称为$$A$$的**零空间(nullspace)**.
 
 
-
-
 #### 3.2.2 向量集合的张成
 
 
