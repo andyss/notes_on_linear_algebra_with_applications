@@ -236,6 +236,10 @@ $$则称$$A$$与$$B$$为**行等价的(row equivalent)**.
 一个$$n \times n$$矩阵$$A$$，当$$i \gt j$$时，$$a_{ij} = 0$$，则称为**上三角形的(upper triangular)**; 当$$i \lt j$$时，$$a_{ij} = 0$$，则称为**下三角形的(lower triangular)**; 统称为**三角形的(triangular)**；如果当$$ i \neq j$$时，$$a_{ij} = 0$$，则称为**对角的(diagonal)**.
 
 
+#### 1.5.4 三角形分解
+
+如果矩阵$$L$$为对角元素为1的下三角形矩阵，我们称$$L$$为**单位下三角形矩阵(unit lower triangular)**. 将矩阵$$A$$分解为一个单位下三角形矩阵和一个严格上三角形矩阵$$U$$的乘积的过程，通常称为**$$LU$$分解($$LU$$ factorization)**.
+
 
 
 
