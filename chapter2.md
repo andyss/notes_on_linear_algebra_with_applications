@@ -9,5 +9,16 @@ $$
 
 **定义** 一个$$n\times n$$矩阵$$A$$的**行列式(determinant)**，记为$$det(A)$$，是一个与矩阵$$A$$对应的标量，它可如下递归定义
 $$
-det(A) = 
+det(A) =   
+\begin{cases}
+    a_{11}  & \quad 当 n = 1 时 \\
+    a_{11}A_{11} + a_{12}A_{12} + \dotsb + a_{1n}A_{1n}  & \quad 当 n \gt 1 时 \\
+\end{cases}
+
 $$
+其中
+$$
+A_{ij} = (-1)^{1+j}det(M_{1j}), j = 1, \dotsc, n
+$$
+**定理** 
+
