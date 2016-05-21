@@ -149,6 +149,7 @@ $$
 
 * $$(A^T)^T = A$$
 * $$(\alpha A)^T = \alpha A^T$$
+* $$(A + B)^T = A^T + B^T$$
 * 
 
 
