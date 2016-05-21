@@ -48,4 +48,22 @@ a_{i1}A_{j1} + a_{i2}A_{j2} + \dotsb + a_{in}A_{jn} =
 \end{cases}
 $$
 
+** 行运算I ** 交换$$A$$的两行
+
+$$
+det(E_1A) = -det(A)
+$$
+
+> 例如
+$$
+E_1 = \begin{bmatrix}
+0 & 1 \\
+1 & 0 
+\end{bmatrix}
+$$
+
+** 行运算II ** $$A$$的某一行乘以一个非零常数
+$$
+det(E_2A) = det(E_2)det(A)
+$$
 
