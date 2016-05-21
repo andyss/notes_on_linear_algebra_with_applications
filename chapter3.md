@@ -38,3 +38,4 @@ $$
 7. 对任意标量$$\alpha$$和$$\beta$$及$$\boldsymbol{x} \in V$$，有$$(\alpha\beta)\boldsymbol{x} = \alpha(\beta\boldsymbol{x})$$
 8. 对所有的$$\boldsymbol{x} \in V$$. 有$$1 \cdot \boldsymbol{x} = \boldsymbol{x}$$
 
+#### 3.1.4 向量空间$$C[a, b]$$
