@@ -41,7 +41,11 @@ $$
 
 **引理** 令$$A$$为一$$n\times n$$矩阵，若$$A_{jk}$$表示$$a_{jk}$$的余子式，其中$$k = 1, \dotsc, n$$，则
 $$
-
+a_{i1}A_{j1} + a_{i2}A_{j2} + \dotsb + a_{in}A_{jn} = 
+\begin{cases}
+    det(A)  & \quad 当 i = j 时 \\
+    0  & \quad 当 n \neq j 时 \\
+\end{cases}
 $$
 
 
