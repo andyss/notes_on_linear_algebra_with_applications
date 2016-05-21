@@ -36,4 +36,5 @@ $$
 5. 对任意的标量$$\alpha$$和$$V$$中的元素$$\boldsymbol{x}$$和$$\boldsymbol{y}$$，有$$\alpha(\boldsymbol{x} + \boldsymbol{y}) = \alpha\boldsymbol{x} + \alpha\boldsymbol{y}$$
 6. 对任意标量$$\alpha$$和$$\beta$$及$$\boldsymbol{x} \in V$$，有$$(\alpha + \beta)\boldsymbol{x} = \alpha\boldsymbol{x} + \beta\boldsymbol{x}$$
 7. 对任意标量$$\alpha$$和$$\beta$$及$$\boldsymbol{x} \in V$$，有$$(\alpha\beta)\boldsymbol{x} = \alpha(\beta\boldsymbol{x})$$
-8. 对所有的$$\boldsymbol{x} \in V$$. 有$$1 \dot \boldsymbol{x} = \boldsymbol{x}$$
+8. 对所有的$$\boldsymbol{x} \in V$$. 有$$1 \cdot \boldsymbol{x} = \boldsymbol{x}$$
+
