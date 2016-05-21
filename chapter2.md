@@ -126,6 +126,9 @@ $$
 $$
 x_i = \frac{det(A_i)}{det(A)}, \quad i = 1, 2, \dotsc, n
 $$
+#### 2.3.3 向量积
+
+
 
 
 
