@@ -98,4 +98,18 @@ det(AB) = det(A)det(B)
 $$
 ### 2.3 其它
 
+#### 2.3.1 伴随矩阵
+
+我们定义
+$$
+adj A = 
+\begin{bmatrix}
+A_{11} & A_{21} & \dotsc & A_{n1} \\
+A_{12} & A_{22} & \dotsc & A_{n2} \\
+\vdots &        &        &        \\
+A_{1n} & A_{2n} & \dotsc & A_{nn} 
+\end{bmatrix}
+$$
+
+
 
