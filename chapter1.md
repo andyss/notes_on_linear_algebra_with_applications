@@ -274,7 +274,10 @@ C_{ij} = \sum_{k = 1}^tA_{ik}B_{kj}
 $$
 #### 1.6.2 外积展开
 
-
+我们称
+$$
+\boldsymbol{x}^T\boldsymbol{y} = (x_1, x_2, \dotsc, x_n)
+$$
 
 
 
