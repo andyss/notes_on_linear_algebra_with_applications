@@ -155,6 +155,12 @@ $$
 
 ### 3.4 基和维数
 
+**定义** 当且仅当向量空间$$V$$中的向量$$\boldsymbol{v_1, v_2, \dotsc, v_n}$$满足
+* $$\boldsymbol{v_1, v_2, \dotsc, v_n}$$线性无关
+* $$\boldsymbol{v_1, v_2, \dotsc, v_n}$$张成$$V$$
+
+时，称它们是微量空间$$V$$的**基(basis)**。
+
 
 
 
