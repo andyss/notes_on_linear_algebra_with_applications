@@ -247,7 +247,21 @@ $$则称$$A$$与$$B$$为**行等价的(row equivalent)**.
 
 一般地，假设矩阵各个分块是恰当的，则分块乘法如下，设
 $$
-A = 
+A = \begin{bmatrix}
+       A_{11} & \dotsc & A_{1t} \\
+       \vdots &        &        \\
+       A_{s1} & \dotsc & A_{st}
+\end{bmatrix}
+\quad 及 \quad B = \begin{bmatrix}
+       B_{11} & \dotsc & B_{qr} \\
+       \vdots &        &        \\
+       B_{t1} & \dotsc & B_{tr}
+\end{bmatrix}
+
+$$
+则
+$$
+AB = 
 $$
 
 
