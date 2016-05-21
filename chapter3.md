@@ -8,7 +8,10 @@
 $$
 \alpha\boldsymbol{x} = 
 \begin{bmatrix}
-
+\alpha x_1 \\
+\alpha x_2 \\
+\vdots \\
+\alpha x_n
 \end{bmatrix}
 \quad 和 \quad \boldsymbol{x} + \boldsymbol{y} = 
 \begin{bmatrix}
