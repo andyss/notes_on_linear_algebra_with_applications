@@ -88,8 +88,10 @@ $$
 
 令$$A$$为一$$m\times n$$矩阵，令$$N(A)$$为所有齐次方程组$$A\boldsymbol{x} = 0$$的解的集合. 于是
 $$
-N(A) = \{\boldsymbol{x} \in R^n  |  A\boldsymbol{x} = 0\}
-$$
+N(A) = \{\boldsymbol{x} \in R^n  \mid  A\boldsymbol{x} = 0\}
+$$子空间$$N(A)$$ 
+
+
 
 
 
