@@ -231,7 +231,12 @@ $$则称$$A$$与$$B$$为**行等价的(row equivalent)**.
 *推论 1.5.2.3* **当且仅当$$A$$非奇异时，$$n$$个未知量$$n$$个方程的线性方程组$$A\boldsymbol{x} = \boldsymbol{b}$$有惟一解.**
 
 
-#### 1.5.3 
+#### 1.5.3 对角矩阵和三角形矩阵
+
+一个$$n \times n$$矩阵$$A$$，当$$i \gt j$$时，$$a_{ij} = 0$$，则称为**上三角形的(upper triangular)**; 当$$i \lt j$$时，$$a_{ij} = 0$$，则称为**下三角形的(lower triangular)**; 统称为**三角形的(triangular)**；如果当$$ i \neq j$$时，$$a_{ij} = 0$$，则称为**对角的(diagonal)**.
+
+
+
 
 
 
