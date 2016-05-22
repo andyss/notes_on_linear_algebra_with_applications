@@ -13,7 +13,7 @@ $$
 |\boldsymbol{x}^T\boldsymbol{y}| \leq \|\boldsymbol{x}\| \|\boldsymbol{y}\|
 $$当且仅当其中一个向量为$$\boldsymbol{0}$$，或一个向量为另一个向量的倍数时，等号成立.
 
-**定义** 若$$\boldsymbol{x}^T\boldsymbol{y} = 0$$，则$$R^2（或者R^3)$$中的向量$$\boldsymbol{x}$$和$$\boldsymbol{y}$$称为**正交的(orthogonal)**.
+若$$\boldsymbol{x}^T\boldsymbol{y} = 0$$，则$$R^2（或者R^3)$$中的向量$$\boldsymbol{x}$$和$$\boldsymbol{y}$$称为**正交的(orthogonal)**.
 
 **定义** 标量$$\alpha$$满足
 $$
@@ -45,3 +45,20 @@ $$
 $$
 \boldsymbol{u} = \frac{1}{\|\boldsymbol{x}\|}\boldsymbol{x} \quad 且 \quad \boldsymbol{v} = \frac{1}{\|\boldsymbol{y}\|}\boldsymbol{y}
 $$
+则
+$$
+cos\theta = \boldsymbol{u}^T\boldsymbol{v}
+$$
+若$$\boldsymbol{x}^T\boldsymbol{y} = 0$$，则向量$$\boldsymbol{x}$$和$$\boldsymbol{y}$$称为**正交的(orthogonal)**. 记为$$\boldsymbol{x}\bot\boldsymbol{y}$$.
+
+若$$\boldsymbol{x}$$和$$\boldsymbol{y}$$为$$R^n$$中的向量，早
+$$
+\|\boldsymbol{x} + \boldsymbol{y}\| = (\boldsymbol{x} + \boldsymbol{y})^T(\boldsymbol{x} + \boldsymbol{y}) = \|\boldsymbol{x}\|^2 + 2\boldsymbol{x}^T\boldsymbol{y} + \|\boldsymbol{y}\|^2
+$$当$$\boldsymbol{x}$$和$$\boldsymbol{y}$$正交时，方程称为**毕达哥拉斯定律(Pythagorean Law)**.
+$$
+\|\boldsymbol{x} + \boldsymbol{y}\|^2 = \|\boldsymbol{x}\|^2 + \|\boldsymbol{y}\|^2 
+$$
+
+### 5.2 正交子空间
+
+
