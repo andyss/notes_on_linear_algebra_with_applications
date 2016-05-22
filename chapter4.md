@@ -74,3 +74,10 @@ $$的表示矩阵，则$$(\boldsymbol{b_1, \dotsc, b_m} \mid L(\boldsymbol{u_1})
 
 #### 4.2.1 齐次坐标
 
+**齐次坐标系(homogeneous coordinate system)**是通过将$$R^2$$中的向量等同于$$R^3$$中和该向量前两个坐标相同，而第三个坐标为1的向量来构造的.
+$$
+\begin{bmatrix}
+x_1 \\
+x_2
+\end{bmatrix} 
+$$
