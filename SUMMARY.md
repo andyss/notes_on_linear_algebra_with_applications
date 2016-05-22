@@ -7,7 +7,7 @@
    * [1.3 矩阵算术](chapter1.3.md)
    * [1.4 矩阵代数](chapter1.4.md)
    * [1.5 初等矩阵](chapter1.5.md)
-   * 1.6 分块矩阵
+   * [1.6 分块矩阵](chapter1.6.md)
 * [第2章 行列式](chapter2.md)
    * 2.1 矩阵的行列式
 * [第3章 向量空间](chapter3.md)
