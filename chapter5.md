@@ -7,5 +7,8 @@
 若$$\boldsymbol{x} \in R^n$$，则$$\boldsymbol{x}$$的**欧几里得长度**定义为
 $$
 \|\boldsymbol{x}\| = (\boldsymbol{x}^T\boldsymbol{x})^{1/2} 
-$$
+$$若$$\boldsymbol{x}$$和$$\boldsymbol{y}$$为$$R^n$$中的两个向量，则向量之间的距离为$$\|\boldsymbol{y} - \boldsymbol{x}\|$$.
+
+
+
 
