@@ -179,12 +179,17 @@ $$
 
 #### 3.4.1 标准基
 
+集合$$\{\boldsymbol{e_1, e_2, e_3}\}$$为$$R^3$$的**标准基(standard basis)**. 更一般的，$$R^n$$的标准基为集合$$\{\boldsymbol{e_1, e_2, \dotsc, e_n}\}$$.
 
-
-
-
-
-
+例如$$R^{2\times 2}$$的标准基为$$\{E_{11}, E_{12}, E_{21}, E_{22}\}$$. $$E_{11} = [\begin{smallmatrix}
+1&0 \\ 0&0
+\end{smallmatrix}]$$，$$E_{12} = [\begin{smallmatrix}
+0&1 \\ 0&0
+\end{smallmatrix}]$$，$$E_{21} = [\begin{smallmatrix}
+0&0 \\ 1&0
+\end{smallmatrix}]$$，$$E_{22} = [\begin{smallmatrix}
+0&0 \\ 0&1
+\end{smallmatrix}]$$.
 
 
 
