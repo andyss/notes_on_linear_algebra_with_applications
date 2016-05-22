@@ -34,6 +34,15 @@ $$
 
 #### 4.1.3 象与核
 
+**定义** 令$$L: V \to W$$为一线性变换，$$L$$的**核(kernel)**记为$$ker(L)$$，定义为
+$$
+ker(L) = \{\boldsymbol{v} \in V \mid L(\boldsymbol{v}) = \boldsymbol(0_w)\}
+$$
+**定义** 令$$L: V \to W$$为一线性变换，并令$$S$$为$$V$$的一个子空间. $$S$$的**象(image)**记为$$L(S)$$，定义为
+$$
+L(S) = \{\boldsymbol{w} \in W \mid \boldsymbol{w} = L(\boldsymbol{v})，对某个 \boldsymbol{v} \in S\}
+$$整个向量空间的象$$L(V)$$称为$$L$$的**值域(range)**.
+
 
 
 
