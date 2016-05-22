@@ -61,6 +61,9 @@ $$$$A$$称为$$L$$收到应于有序基$$E$$和$$F$$的表示矩阵，事实上
 $$
 \boldsymbol{a_j} = [L(\boldsymbol{v_j})]_F，\quad j = 1, 2, \dotsc, n
 $$
-
+**定理** 令$$E = [\boldsymbol{u_1, \dotsc, u_n}]$$及$$F = [\boldsymbol{b_1, \dotsc, b_m}]$$分别为$$R^n$$和$$R^m$$的有序基. 若$$L: R^n \to R^m$$为一线性变换，且$$A$$为$$L$$相应于$$E$$和$$F$$的表示矩阵，则
+$$
+\boldsymbol{a_j} = B^{-1}L(\boldsymbol{u_j}), \quad j = 1, \dotsc, n
+$$其中$$B = (\boldsymbol{b_1, \dotsc, b_m})$$.
 
 
