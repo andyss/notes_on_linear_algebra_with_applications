@@ -54,7 +54,11 @@ $$整个向量空间的象$$L(V)$$称为$$L$$的**值域(range)**.
 **定理** 若$$L$$为一从$$R^n$$到$$R^m$$的线性变换，则存在一个$$m\times n$$矩阵$$A$$，使得对每一个$$\boldsymbol{x} \in R^n$$，有
 $$
 L(\boldsymbol{x}) = A\boldsymbol{x}
+$$事实上，$$A$$的第$$j$$个列向量为
 $$
+\boldsymbol{a_j} = L(\boldsymbol{e_j})\quad j = 1, 2,\dotsc,n
+$$
+
 
 
 
