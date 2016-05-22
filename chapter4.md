@@ -58,7 +58,13 @@ $$事实上，$$A$$的第$$j$$个列向量为
 $$
 \boldsymbol{a_j} = L(\boldsymbol{e_j})\quad j = 1, 2,\dotsc,n
 $$
-
+**定理** 若$$E = [\boldsymbol{v_1, v_2, \dotsc, v_n}]$$和$$F = [\boldsymbol{w_1, w_2, \dotsc, w_m}]$$分别为向量空间$$V$$和$$W$$的有序基，则对每一线性变换$$L: V \to W$$，存在一个$$m\times n$$矩阵$$A$$，使得对每一个$$\boldsymbol{v} \in V$$，有
+$$
+[L(\boldsymbol{v})]_F = A[\boldsymbol{v}]_E
+$$$$A$$称为$$L$$收到应于有序基$$E$$和$$F$$的表示矩阵，事实上
+$$
+\boldsymbol{a_j} = [L(\boldsymbol{v_j})]_F，\quad j = 1, 2, \dotsc, n
+$$
 
 
 
