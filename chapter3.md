@@ -196,6 +196,10 @@ $$P_n$$的标准基为$$\{1, x, x^2, \dotsc, x^{n-1}\}$$
 
 ### 3.5 基变换
 
+**定义** 令$$V$$为一向量空间，且令$$E = [\boldsymbol{v_1, v_2, \dotsc, v_n}]$$为$$V$$的一组有序基. 若$$\boldsymbol{v}$$为$$V$$中的一元素，则$$\boldsymbol{v}$$可写成为
+$$
+\boldsymbol{v} = c_1\boldsymbol{v_1} + c_2\boldsymbol{v_2} + \dotsb + c_n\boldsymbol{v_n}
+$$其中$$c_1, c_2, \dotsc, c_n$$为标量. 因此可以将每一个向量$$\boldsymbol{v}$$惟一对应于$$R^n$$中的一个向量$$\boldsymbol{c} = (c_1, c_2, \dotsc, c_n)^T$$.  采用这种方式定义的向量$$\boldsymbol{c}$$称为$$\boldsymbol{v}$$相应于有序基$$E$$的**坐标向量(coordinate vector)**，并记为$$[\boldsymbol{v}]_E$$. $$c_i$$称为$$\boldsymbol{v}$$相对于$$E$$的**坐标(coordinate)**.
 
 
 
