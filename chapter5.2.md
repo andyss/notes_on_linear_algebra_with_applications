@@ -32,3 +32,6 @@ R^n = S\oplus S^\bot
 $$
 **定理** 若$$S$$为$$R^n$$的一个子空间，则$$(S^\bot)^\bot = S$$.
 
+**推论** 若$$A$$为一$$m\times n$$矩阵，且$$\boldsymbol{b} \in R^m$$，则或者存在一个向量$$\boldsymbol{x} \in R^n$$使得$$A\boldsymbol{x} = \boldsymbol{b}$$，或者存在一个向量$$\boldsymbol{y} \in R^n$$使得$$A^T\boldsymbol{y} = 0$$且$$\boldsymbol{y}^T\boldsymbol{b} \neq 0$$.
+
+
