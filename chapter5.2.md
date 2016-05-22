@@ -24,4 +24,9 @@ $$
 
 **定理** 若$$S$$为$$R^n$$的一个子空间，则$$dimS + dimS^\bot = n$$. 此外，若$$\{x_1, \dotsc, x_r\}$$为$$S$$的一组基，且$$\{x_{r+1}, \dotsc, x_n\}$$为$$S^\bot$$的一组基，则$$\{x_1, \dotsc, x_n\}$$为$$R^n$$的一组基.
 
+**定义** 若$$U$$和$$V$$为一个向量空间$$W$$的子空间，且每一个$$\boldsymbol{w} \in W$$可以惟一地写成一个和$$\boldsymbol{u + v}$$，其中$$\boldsymbol{u} \in U$$，且$$\boldsymbol{v} \in V$$，则我们称$$W$$为$$U$$与$$V$$的**直和(direct sum)**，并记为$$W = U\oplus V$$.
 
+**定理** 若$$S$$为$$R^n$$的一个子空间，早
+$$
+R^n = S\oplus S^\bot
+$$
