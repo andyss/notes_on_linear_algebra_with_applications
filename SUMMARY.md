@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [第1章 矩阵与方程组](chapter1.md)
    * [1.1 线性方程组](chapter1.1.md)
-   * 1.2 行阶梯形
+   * [1.2 行阶梯形](chapter1.2.md)
    * 1.3 矩阵算术
    * 1.4 矩阵代数
    * 1.5 初等矩阵
