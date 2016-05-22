@@ -16,3 +16,16 @@ $$此外，$$S$$中给定的向量$$\boldsymbol{p}$$和向量$$\boldsymbol{b} \i
 
 
 
+$$A^TA\boldsymbol{x} = A^T\boldsymbol{b}$$表示$$n\times n$$线性方程组称为**正规方程组(normal equations)**. 一般的正规方程组可能存在多个解；然面，若$$\boldsymbol{\widehat{x}}$$和$$\boldsymbol{\widehat{y}}$$均为解，则由于$$\boldsymbol{b}$$在$$R(A)$$中的投影$$\boldsymbol{p}$$是惟一的，故
+$$
+A\boldsymbol{\widehat{x}} = A\boldsymbol{\widehat{y}} = \boldsymbol{p}
+$$
+**定理** 若$$A$$是秩为n的$$m\times n$$矩阵，则正规方程组
+$$
+A^TA\boldsymbol{x} = A^T\boldsymbol{b}
+$$有惟一解
+$$
+\boldsymbol{\widehat{x}} = (A^TA)^{-1}A^T\boldsymbol{b}
+$$且$$\boldsymbol{\widehat{x}}$$为方程组$$A\boldsymbol{x} = \boldsymbol{b}$$惟一的最小二乘解.
+
+
