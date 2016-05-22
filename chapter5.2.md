@@ -15,7 +15,10 @@ $$集合$$Y^\bot$$称为$$Y$$的**正交补(orthogonal complement)**.
 令$$A$$为一$$m\times n$$的矩阵，一个向量$$\boldsymbol{b} \in R^m$$在$$A$$的列空间中的充要条件是对某$$\boldsymbol{x} \in R^m$$，有$$\boldsymbol{b} = A\boldsymbol{x}$$. 如果将$$A$$看成是将$$R^n$$映射为$$R^m$$的线性变换，则$$A$$的列空间和$$A$$的值域是相同的，我们记$$A$$的值域为$$R(A)$$.则
 $$
 \begin{align*}
-R(A) = \{\boldsymbol{b}\in R^m \mid \boldsymbol{b} = A\boldsymbol{x}，对某\boldsymbol{x} \in R^n \} \\
-= A 的列空间
+R(A) &= \{\boldsymbol{b}\in R^m \mid \boldsymbol{b} = A\boldsymbol{x}，对某\boldsymbol{x} \in R^n \} \\
+&= A 的列空间
 \end{align*}
 $$
+**定理** (基本子空间定理) 若$$A$$为一$$m\times n$$矩阵，则$$N(A) = R(A^T)^\bot$$, 且$$N(A^T) = R(A)^\bot$$.
+
+
