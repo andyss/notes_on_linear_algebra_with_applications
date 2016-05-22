@@ -79,5 +79,28 @@ $$
 \begin{bmatrix}
 x_1 \\
 x_2
-\end{bmatrix} 
+\end{bmatrix} \leftrightarrow 
+\begin{bmatrix}
+x_1 \\
+x_2 \\
+1
+\end{bmatrix}
 $$
+
+> 例如
+$$
+\begin{bmatrix}
+3 & 0 \\
+0 & 3
+\end{bmatrix} \to 
+\begin{bmatrix}
+3 & 0 & 0 \\
+0 & 3 & 0 \\
+0 & 0 & 1
+\end{bmatrix}
+$$
+
+### 4.3 相似性
+
+
+
