@@ -7,6 +7,11 @@ $$则称其实为**线性变换(linear transformation)**. 记为$$L:V \to W$$
 
 
 如果向量空间$$V$$和$$W$$是相同的，我们称线性变换$$L: V \to V$$为$$V$$上的**线性算子(linear operator)**.
+'
+[]
+
+
+
 
 #### 4.1.1 从$$R^n$$到$$R^m$$的线性变换
 
@@ -14,5 +19,11 @@ $$则称其实为**线性变换(linear transformation)**. 记为$$L:V \to W$$
 $$
 L_A(\boldsymbol{x}) = A\boldsymbol{x}
 $$
+
+#### 4.1.2 从$$V$$到$$W$$的线性变换
+
+若$$L$$为一从向量空间$$V$$到$$W$$的线性变换，则
+* $$L(\boldsymbol{0_v}) = \boldsymbol{0_w}$$
+* 若$$\boldsymbol{v_1, \dotsc, v_n}$$为$$V$$的元素，且$$\alpha_1, \dotsc, \alpha_n$$为标题，则
 
 
