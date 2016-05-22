@@ -20,5 +20,9 @@ $$当且仅当其中一个向量为$$\boldsymbol{0}$$，或一个向量为另一
 
 **定义** 若$$\boldsymbol{x}^T\boldsymbol{y} = 0$$，则$$R^2（或者R^3)$$中的向量$$\boldsymbol{x}$$和$$\boldsymbol{y}$$称为**正交的(orthogonal)**.
 
+**定义** 标量$$\alpha$$满足
+$$
+\alpha = \|\boldsymbol{x}\| cos\theta = \frac{\|\boldsymbol{x}\| \|\boldsymbol{y}\| cos\theta}{\|\boldsymbol{y}\|} = \frac{\boldsymbol{x}^T\boldsymbol{y}}{\|\boldsymbol{y}\|}
+$$标量$$\alpha$$称为$$\boldsymbol{x}$$到$$\boldsymbol{y}$$的**标量投影(scalar projection)**，且向量$$\boldsymbol{p}$$称为$$\boldsymbol{x}$$到$$\boldsymbol{y}$$的**向量投影(vector projection)**.
 
 
