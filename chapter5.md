@@ -61,6 +61,6 @@ $$
 
 ### 5.2 正交子空间
 
-**定义** 设$$X$$和$$Y$$为$$R^n$$的子空间，若对每一$$\boldsymbol{x} \in X$$及$$\boldsymbol{y} \in Y$$都有$$\boldsymbol{x^Ty} = 0$$，则称$$X$$和$$Y$$为**正交的(orthogonal)**. 若$$X$$和$$Y$$是正交的，我们记为$$X\bot Y$$。
+**定义** 设$$X$$和$$Y$$为$$R^n$$的子空间，若对每一$$\boldsymbol{x} \in X$$及$$\boldsymbol{y} \in Y$$都有$$\boldsymbol{x^Ty} = 0$$，则称$$X$$和$$Y$$为**正交的(orthogonal)**. 若$$X$$和$$Y$$是正交的，我们记为$$X\bot Y$$.
 
 
