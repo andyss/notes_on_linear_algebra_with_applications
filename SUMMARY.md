@@ -9,7 +9,7 @@
    * [1.5 初等矩阵](chapter1.5.md)
    * [1.6 分块矩阵](chapter1.6.md)
 * [第2章 行列式](chapter2.md)
-   * 2.1 矩阵的行列式
+   * [2.1 矩阵的行列式](chapter2.1.md)
 * [第3章 向量空间](chapter3.md)
 * [第4章 线性变换](chapter4.md)
 * [第5章 正交性](chapter5.md)
