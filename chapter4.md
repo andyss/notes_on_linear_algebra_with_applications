@@ -32,6 +32,9 @@ $$
 * 对所有的$$\boldsymbol{v} \in V$$，有$$L(-\boldsymbol{v}) = -L(\boldsymbol{v})$$
 
 
+#### 4.1.3 象与核
+
+
 
 
 
