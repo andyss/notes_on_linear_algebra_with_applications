@@ -218,6 +218,13 @@ $$
 
 **定义** $$A$$的行空间的维数称为矩阵$$A$$的**秩(rank)**
 
+#### 3.6.1 线性方程组
+
+**定理** 一个线性方程组$$A\boldsymbol{x} = \boldsymbol{b}$$相容的充要条件是$$\boldsymbol{b}$$在$$A$$的列空间中.
+
+**定理** 令$$A$$为一$$m\times n$$矩阵. 当且仅当$$A$$的列向量张成$$R^m$$时，对每一$$\boldsymbol{b} \in R^m$$，线性方程组$$A\boldsymbol{x} = \boldsymbol{b}$$是相容的. 当且仅当$$A$$的列向量线性无关时，对每一$$\boldsymbol{b} \in R^m$$，方程组$$$A\boldsymbol{x} = \boldsymbol{b}$至多有一个解.
+
+
 
 
 
