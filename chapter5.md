@@ -68,6 +68,7 @@ $$
 Y^\bot = \{\boldsymbol{x} \in R^n\mid \boldsymbol{x}^T\boldsymbol{y} = 0，对每一个\boldsymbol{y} \in Y\}
 $$集合$$Y^\bot$$称为$$Y$$的**正交补(orthogonal complement)**.
 
+* 叵$$X$$和$$Y$$为$$R^n$$中的正交子空间，则$$X \cap Y = \{\boldsymbol{0}\}$$
 
 
 
