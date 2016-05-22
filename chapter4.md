@@ -67,3 +67,10 @@ $$
 $$其中$$B = (\boldsymbol{b_1, \dotsc, b_m})$$.
 
 
+**推论** 若$$A$$为线性变换$$L: R^n \to R^m$$相应于基
+$$
+E = [\boldsymbol{u_1, \dotsc, u_n}]\quad 和 \quad F = [\boldsymbol{b_1, \dotsc, b_m}]
+$$的表示矩阵，则$$(\boldsymbol{b_1, \dotsc, b_m} \mid L(\boldsymbol{u_1}), \dotsc, L(\boldsymbol{u_n}))$$的行最简形为$$(I\mid A)$$.
+
+#### 4.2.1 齐次坐标
+
