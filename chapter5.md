@@ -69,3 +69,6 @@ Y^\bot = \{\boldsymbol{x} \in R^n\mid \boldsymbol{x}^T\boldsymbol{y} = 0，对�
 $$集合$$Y^\bot$$称为$$Y$$的**正交补(orthogonal complement)**.
 
 
+
+
+
