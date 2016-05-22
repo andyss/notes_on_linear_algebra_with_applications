@@ -21,3 +21,4 @@ $$当且仅当其中一个向量为$$\boldsymbol{0}$$，或一个向量为另一
 **定义** 若$$\boldsymbol{x}^T\boldsymbol{y} = 0$$，则$$R^2（或者R^3)$$中的向量$$\boldsymbol{x}$$和$$\boldsymbol{y}$$称为**正交的(orthogonal)**.
 
 
+
