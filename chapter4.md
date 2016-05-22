@@ -24,6 +24,14 @@ $$
 
 若$$L$$为一从向量空间$$V$$到$$W$$的线性变换，则
 * $$L(\boldsymbol{0_v}) = \boldsymbol{0_w}$$
-* 若$$\boldsymbol{v_1, \dotsc, v_n}$$为$$V$$的元素，且$$\alpha_1, \dotsc, \alpha_n$$为标题，则
+* 若$$\boldsymbol{v_1, \dotsc, v_n}$$为$$V$$的元素，且$$\alpha_1, \dotsc, \alpha_n$$为标题，则  
+$$
+L(\alpha_1\boldsymbol{v_1} + \alpha_2\boldsymbol{v_2} + \dotsb + \alpha_n\boldsymbol{v_n}) = \alpha_1L(\boldsymbol{v_1}) + \alpha_2L(\boldsymbol{v_2}) + \dotsb + \alpha_nL(\boldsymbol{v_n})
+$$
+
+* 对所有的$$\boldsymbol{v} \in V$$，有$$L(-\boldsymbol{v}) = -L(\boldsymbol{v})$$
+
+
+
 
 
