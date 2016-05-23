@@ -54,5 +54,13 @@ T_1(x) &= xT_0(x) \\
 T_{n + 1}(x) &= 2xT_n(x) - T_{n-1}(x), \quad n \geq 1
 \end{align}
 $$
+**雅可比多项式**
+
+勒让德多项式和切比雪夫多项式均为雅可比多项式的特例，雅可比多项式$$P_n^{(\lambda, \mu)}$$在内积
+$$
+\langle p, q \rangle  = \int_{-1}^1\,p(x)q(x)(1 - x)^{\lambda}(1 + x)^\mu\mathrm{d}x
+
+$$意义下正交，其中$$\lambda, \mu \gt -1$$
+
 
 
