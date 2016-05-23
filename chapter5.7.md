@@ -49,8 +49,10 @@ $$
 \cos{(n + 1)\theta} = 2\cos{\theta}\cos{n\theta} - \cos{(n - 1)\theta}
 $$可得到递推关系
 $$
-T_1(x) = xT_0(x) \\
-
+\begin{align}
+T_1(x) &= xT_0(x) \\
+T_{n + 1}(x) &= 2xT_n(x) - T_{n-1}(x), \quad n \geq 1
+\end{align}
 $$
 
 
