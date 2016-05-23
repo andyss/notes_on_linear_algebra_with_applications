@@ -90,5 +90,10 @@ $$
 则称$$V$$为**线性赋范空间(normed linear space)**. 第三个条件称为**三角不等式(triangle inequality)**
 
 
+**定理** 如果$$V$$为一内积空间，则对任意的$$\boldsymbol{v} \in V$$，方程
+$$
+\|\boldsymbol{v}\| = \sqrt{\langle\boldsymbol{v}, \boldsymbol{v}\rangle}
+$$定义了$$V$$上的一个范数
+
 
 
