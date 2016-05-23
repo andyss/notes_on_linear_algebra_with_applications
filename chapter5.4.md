@@ -5,3 +5,9 @@
 2. 对$$V$$中所有的$$\boldsymbol{x}$$和$$\boldsymbol{y}$$，有$$\langle\boldsymbol{x}, \boldsymbol{y}\rangle = \langle\boldsymbol{y}, \boldsymbol{x}\rangle$$
 3. 对$$V$$中所有的$$\boldsymbol{x},\boldsymbol{y}, \boldsymbol{z}$$，及所有标量$$\alpha$$和$$\beta$$，有$$\langle\alpha\boldsymbol{x} + \beta\boldsymbol{y}, \boldsymbol{z}\rangle = \alpha\langle\boldsymbol{x}, \boldsymbol{z}\rangle + \beta\langle\boldsymbol{y}, \boldsymbol{z}\rangle$$
 
+#### 5.4.1 向量空间$$R^n$$
+
+$$R^n$$中的标准内积就是标量积
+$$
+\langle\boldsymbol{x}, \boldsymbol{y}\rangle = \boldsymbol{x}^T\boldsymbol{y}
+$$
