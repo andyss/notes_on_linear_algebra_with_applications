@@ -17,5 +17,8 @@ $$即为$$V$$的一组规范正交基
 
 **定理** (格拉姆-施密特$$QR$$分解) 若$$A$$是一秩为$$n$$的$$m\times n$$矩阵，则$$A$$可分解为乘积$$QR$$，其中$$Q$$为各列向量正交的$$m\times n$$矩阵，且$$R$$为一$$n\times n$$上三角形矩阵，其对角元素均为正. [注：$$R$$必为非奇异的，因为$$det(R) \gt 0$$]
 
-**定理** 若$$A$$是一秩为$$n$$的$$m\times n$$矩阵
+**定理** 若$$A$$是一秩为$$n$$的$$m\times n$$矩阵，则$$A\boldsymbol{x} = \boldsymbol{b}$$的最小二乘解为$$\widehat{\boldsymbol{x}} = R^{-1}Q^T\boldsymbol{b}$$，其中$$Q$$和$$R$$为上一个定理中给出的因式分解矩阵，解$$\widehat{\boldsymbol{x}}$$可以使用回代法求解$$R\boldsymbol{x} = Q^T\boldsymbol{b}$$得到
+
+
+
 
