@@ -63,3 +63,8 @@ $$
 $$
 如果两个向量$$\boldsymbol{u}$$和$$\boldsymbol{v}$$满足$$\langle \boldsymbol{u}, \boldsymbol{v}\rangle = 0$$则称它们为**正交的(orthogonal)**
 
+**定理** (毕达哥拉斯定理) 若$$\boldsymbol{u}$$和$$\boldsymbol{v}$$为一个内积空间$$V$$中的正交向量，则
+$$
+\|\boldsymbol{u} + \boldsymbol{v}\|^2 = \|\boldsymbol{u}\|^2 + \|\boldsymbol{v}\|^2
+$$
+
