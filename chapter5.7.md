@@ -1,6 +1,6 @@
 ### 5.7 正交多项式
 
-#### 正交序列
+#### 5.7.1 正交序列
 
 **定义** 若$$p_0(x),\, p_1(x),\, \dotsc$$为一多项式序列，且对每一个$$i$$有$$\deg{p_i(x)} = i. 若当 i \neq j$$时，$$\langle p_i(x), p_j(x)\rangle = 0$$，则$$\{p_n(x)\}$$称为**正交多项式序列(sequence of orthogonal polynomials)**. 若$$\langle p_i, p_j \rangle = \delta_{ij}$$，则$$\{p_n(x)\}$$称为**规范正交多项式序列(sequence of orthonormal polynomials)**
 
@@ -16,7 +16,7 @@ $$其中$$\alpha_0 = \gamma_0 = 1$$，且
 $$
 \alpha_n = \frac{a_{n-1}}{a_n}, \quad \beta_n = \frac{\langle p_{n-1}, xp_{n-1}\rangle}{\langle p_{n-1}, p_{n-1}}, \quad \gamma_n = \frac{\langle p_n, p_n \rangle}{\langle p_{n-1}, p_{n-1}\rangle}\quad (n \geq 1)
 $$
-#### 经典正交多项式
+#### 5.7.2 经典正交多项式
 
 **勒让德多项式**
 
