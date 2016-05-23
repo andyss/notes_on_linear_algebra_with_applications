@@ -25,6 +25,8 @@ $$
 $$构造一个规范正交集.
 
 
+**定理** 令$$\{\boldsymbol{u_1, u_2, \dotsc, u_n}\}$$为一个内积空间$$V$$的规范正交基，若$$\boldsymbol{v} = \sum_{i = 1}^nc_i\boldsymbol{u_i}$$，则$$c_i = \langle\boldsymbol{v}, \boldsymbol{u_i}\rangle$$.
+
 
 
 
