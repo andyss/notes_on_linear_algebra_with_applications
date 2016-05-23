@@ -81,5 +81,25 @@ $$
 
 #### 5.5.4 用三解多项式逼近
 
+三解多项式用于逼近周期函数，所谓**$$n$$次三角多项式(trigonometric polynomial)**，是一个形如
+$$
+t_n(x) = \frac{a_0}{2} + \sum_{k = 1}^n(a_k\,\cos{kx} + b_k\,\sin{kx})
+$$的函数
+
+如果
+$$
+a_0 = \langle f, 1 \rangle = \frac{1}{\pi}\int_{-\pi}^{\pi}\,f(x)\mathrm{d}x
+$$
+且
+$$
+a_k = \langle f, \cos{kx}\rangle = \frac{1}{\pi}\int_{-\pi}^{\pi}\,f(x)\cos{kx}\mathrm{d}x \\
+
+b_k = \langle f, \sin{kx}\rangle = \frac{1}{\pi}\int_{-\pi}^{\pi}\,f(x)\sin{kx}\mathrm{d}x \\
+
+$$其中$$k = 1, 2, \dotsc, n$$，则这些系数确定了$$f$$的最优最小二乘逼近. $$a_k$$和$$b_k$$就是人们熟知的**傅里叶系统(Fourier coefficients)**.
+
+
+
+
 
 
