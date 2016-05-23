@@ -1,3 +1,5 @@
+
+
 ### 5.4 内积空间
 
 **定义** 一个向量空间$$V$$上的**内积(inner product)**为$$V$$上的运算，它将$$V$$中的向量$$\boldsymbol{x}$$和$$\boldsymbol{y}$$与一个实数$$\langle\boldsymbol{x}, \boldsymbol{y}\rangle$$关联，并满足下列条件
@@ -108,4 +110,7 @@ $$
 $$
 
 范数$$\| \boldsymbol{\cdot}\|_2$$为$$R^n$$上由内积诱导的范数，若$$p \neq 2$$，则$$\| \boldsymbol{\cdot}\|_p$$并不对应于任何内积，当范数不是由内积诱导时 ，毕达哥拉斯定律并不成立
+
+
+**定义** 令$$\boldsymbol{x}$$和$$\boldsymbol{y}$$为一线性赋范空间中的向量，$$\boldsymbol{x}$$和$$\boldsymbol{y}$$的距离定义为数值$$\|\boldsymbol{y} - \boldsymbol{x}\|$$
 
