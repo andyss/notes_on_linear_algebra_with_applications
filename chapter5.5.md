@@ -42,5 +42,14 @@ $$
 
 **定理** 一个$$n\times n$$矩阵$$Q$$是正交矩阵的充要条件为$$Q^TQ = I$$
 
+**正交矩阵的性质** 若$$Q$$为一$$n\times n$$正交矩阵，则
+* $$Q$$的列向量构成了$$R^n$$的一组规范正交基
+* $$Q^TQ = I$$
+* $$Q^T = Q^{-1}$$
+* $$\langle Q\boldsymbol{x}, Q\boldsymbol{y} \rangle = \langle\boldsymbol{x},\boldsymbol{y}\rangle$$
+* $$\|Q\boldsymbol{x}\|_2 = \|\boldsymbol{x}\|_2$$
+
+#### 5.5.2 转换矩阵
+
 
 
