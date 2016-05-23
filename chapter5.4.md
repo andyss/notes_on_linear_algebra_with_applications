@@ -11,3 +11,15 @@ $$R^n$$中的标准内积就是标量积
 $$
 \langle\boldsymbol{x}, \boldsymbol{y}\rangle = \boldsymbol{x}^T\boldsymbol{y}
 $$
+给定一个元素为正的向量$$\boldsymbol{w}$$，我们也可以定义$$R^n$$上的一个内积为
+$$
+\langle\boldsymbol{x}, \boldsymbol{y}\rangle = \sum_{i = 1}^nx_iy_iw_i
+$$
+元素$$w_i$$称为**权(weights)**.
+
+#### 5.4.2 向量空间$$R^{m\times n}$$
+
+给定$$R^{m\times n}$$中的$$A$$和$$B$$，我们可以定义一个内积为
+$$
+
+$$
