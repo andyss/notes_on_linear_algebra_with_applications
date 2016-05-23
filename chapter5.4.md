@@ -33,4 +33,10 @@ $$
 $$
 \langle f, f\rangle = \int_a^b(f(x))^2\mathrm{d}x \geq 0
 $$
+若$$w(x)$$为$$[a, b]$$上的一个正的连续函数，则
+$$
+\langle f, g\rangle = \int_a^bf(x)g(x)w(x)\mathrm{d}x
+$$
+也定义了一个$$C[a, b]$$上的内积，函数$$w(x)$$称为**权函数(weight function)**
+
 
