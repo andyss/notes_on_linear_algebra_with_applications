@@ -68,3 +68,8 @@ $$
 \|\boldsymbol{u} + \boldsymbol{v}\|^2 = \|\boldsymbol{u}\|^2 + \|\boldsymbol{v}\|^2
 $$
 
+**定义** 若$$\boldsymbol{u}$$和$$\boldsymbol{v}$$为内积空间$$V$$中的向量，且$$\boldsymbol{v} \neq \boldsymbol{0}$$，则$$\boldsymbol{u}$$到$$\boldsymbol{v}$$的**标量投影(scalar projection)**为
+$$
+\alpha = \frac{\langle\boldsymbol{u}, \boldsymbol{v}\rangle}{\|\boldsymbol{v}\|}
+$$
+
