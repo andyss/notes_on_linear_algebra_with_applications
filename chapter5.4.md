@@ -27,5 +27,10 @@ $$
 
 在$$C[a, b]$$中，我们可以定义内积为
 $$
-\langle f, g\rangle = 
+\langle f, g\rangle = \int_a^bf(x)g(x)\mathrm{d}x
 $$
+注意到
+$$
+\langle f, f\rangle = \int_a^b(f(x))^2\mathrm{d}x \geq 0
+$$
+
