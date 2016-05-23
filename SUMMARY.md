@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [简介](README.md)
 * [矩阵与方程组](chapter1.md)
    * [线性方程组](chapter1.1.md)
    * [行阶梯形](chapter1.2.md)
