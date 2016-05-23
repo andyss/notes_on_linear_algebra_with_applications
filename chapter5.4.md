@@ -77,3 +77,8 @@ $$
 \boldsymbol{p} = \alpha\left(\frac{1}{\|\boldsymbol{v}\|}\boldsymbol{v}\right) = \frac{\langle\boldsymbol{u}, \boldsymbol{v}\rangle}{\langle\boldsymbol{v}, \boldsymbol{v}\rangle}\boldsymbol{v}
 $$
 
+**定理** (柯西-施瓦茨不等式) 若$$\boldsymbol{u}$$和$$\boldsymbol{v}$$为内积空间$$V$$中的两个向量，则
+$$
+|\,\langle\boldsymbol{u}, \boldsymbol{u}\rangle\,| \leq \|\boldsymbol{u}\|\;\|\boldsymbol{v}\|
+$$
+
