@@ -61,4 +61,5 @@ $$
 $$
 \|\boldsymbol{v}\| = \sqrt{\langle \boldsymbol{v}, \boldsymbol{v} \rangle}
 $$
+如果两个向量$$\boldsymbol{u}$$和$$\boldsymbol{v}$$满足$$\langle \boldsymbol{u}, \boldsymbol{v}\rangle = 0$$则称它们为**正交的(orthogonal)**
 
