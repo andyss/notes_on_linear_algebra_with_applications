@@ -71,5 +71,14 @@ $$意义下正交，埃尔米特多项式的递推关系为
 $$
 H_{n+1} = 2xH_n(x) - 2nH_{n-1}(x)
 $$
+**拉盖尔多项式**
+
+拉盖尔多项式定义在区间$$(0, \infty)$$上，且在内积
+$$
+\langle p, q \rangle  = \int_{0}^\infty\,p(x)q(x)x^\lambda e^{-x}\mathrm{d}x
+
+$$意义下正交，其中$$\lambda \gt -1$$，拉盖尔多项式的递推关系为
+$$
+(n + 1)L_{n+1}^{(\lambda)}(x) = (2n + \lambda + 1 - x)L_{n}^{(\lambda)}(x) - (n + \lambda)L_{n-1}^{(\lambda)}(x)
 
 
