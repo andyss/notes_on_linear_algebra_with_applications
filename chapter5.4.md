@@ -83,7 +83,11 @@ $$
 $$
 #### 范数
 
-**定义** 设$$V$$为一个向量空间，若对每一向量$$\boldsymbol{v} \in V$$，存在一个与之相关联的实数
+**定义** 设$$V$$为一个向量空间，若对每一向量$$\boldsymbol{v} \in V$$，存在一个与之相关联的实数$$\|\boldsymbol{v}\|$$，称为$$\boldsymbol{v}$$的**范数(norm)**，它满足
+1. $$\|\boldsymbol{v}\| \geq 0$$，其中等式成立的充要条件为$$\boldsymbol{v} = \boldsymbol{0}$$
+2. 对任一标量$$\alpha$$，$$\|\alpha\boldsymbol{v}\| = |\alpha|\;\|\boldsymbol{v}\|$$
+3. 对所有的$$\boldsymbol{v}, \boldsymbol{w} \in V, \|\boldsymbol{v} + \boldsymbol{w}\| \leq \|\boldsymbol{v}\| + \|\boldsymbol{w}\|$$
+则称$$V$$为**线性赋范空间(normed linear space)**. 第三个条件称为**三角不等式(triangle inequality)**
 
 
 
