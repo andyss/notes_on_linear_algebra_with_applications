@@ -81,4 +81,6 @@ $$
 $$
 |\,\langle\boldsymbol{u}, \boldsymbol{u}\rangle\,| \leq \|\boldsymbol{u}\|\;\|\boldsymbol{v}\|
 $$
+#### 范数
+
 
