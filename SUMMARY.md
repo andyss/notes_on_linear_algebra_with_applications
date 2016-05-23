@@ -38,7 +38,7 @@
    * [埃尔米特矩阵](chapter6.4.md)
    * [奇异值分解](chapter6.5.md)
    * [二次型](chapter6.6.md)
-   * [6.7 正定矩阵](chapter6.7.md)
+   * [正定矩阵](chapter6.7.md)
    * [6.8 非负矩阵](chapter6.8.md)
 * [第7章 数值线性代数](chapter7.md)
    * [7.1 浮点数](chapter7.1.md)
