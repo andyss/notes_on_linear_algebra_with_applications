@@ -24,7 +24,7 @@
    * [线性变换的矩阵表示](chapter4.2.md)
    * [相似性](chapter4.3.md)
 * [正交性](chapter5.md)
-   * [$$R^n$$中的标量积](chapter5.1.md)
+   * [R^n中的标量积](chapter5.1.md)
    * [正交子空间](chapter5.2.md)
    * [最小二乘问题](chapter5.3.md)
    * [内积空间](chapter5.4.md)
