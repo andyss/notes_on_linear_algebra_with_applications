@@ -9,4 +9,12 @@
 * $$p_0, p_1, \dotsc, p_{n-1}$$构成了$$P_n$$的一组基
 * $$p_n \in P_n^\bot$$(即$$p_n$$和每一次数小于$$n$$的多项式正交)
 
+**定理** 令$$p_0, p_1, \dotsc$$为一正交多项式序列，对每一个$$i$$，令$$a_i$$表示$$p_i$$的首系数，并定义$$p_{-1}(x)$$为零多项式，则
+$$
+\alpha_{n+1}p_{n+1}(x) = (x - \beta_{n+1})p_n(x) - \alpha_n\gamma_np_{n-1}(x) \quad (n \geq 0)
+$$其中$$\alpha_0 = \gamma_0 = 1$$，且
+$$
+\alpha_n = \frac{a_{n-1}}{a_n}, \quad \beta_n = \frac{\langle p_{n-1}, xp_{n-1}\rangle}{\langle p_{n-1}, p_{n-1}}, \quad \gamma_n = \frac{\langle p_n, p_n \rangle}{\langle p_{n-1}, p_{n-1}\rangle}\quad (n \geq 1)
+$$
+
 
