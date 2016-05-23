@@ -17,7 +17,7 @@
    * [子空间](chapter3.2.md)
    * [线性无关](chapter3.3.md)
    * [基和维数](chapter3.4.md)
-   * [3.5 基变换](chapter3.5.md)
+   * [基变换](chapter3.5.md)
    * [3.6 行空间和列空间](chapter3.6.md)
 * [第4章 线性变换](chapter4.md)
    * [4.1 定义](chapter4.1.md)
