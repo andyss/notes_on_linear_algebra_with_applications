@@ -6,4 +6,26 @@
 
 **定义** **规范正交的(orthonormal)**向量集合是单位向量的正交集
 
+集合$$\{\boldsymbol{u_1, u_2, \dotsc, u_n}\}$$是规范正交集的充要条件为
+$$
+\langle\boldsymbol{u_i}, \boldsymbol{u_j}\rangle = \delta_{ij}
+$$
+其中
+$$
+\delta_{ij} = 
+\begin{cases}
+1, &\quad i = j \\
+0, &\quad i \neq j
+\end{cases}
+$$
+
+给定任意的正交非零向量集合$$\{\boldsymbol{v_1, v_2, \dotsc, v_n}\}$$，可以通过定义
+$$
+\boldsymbol{u_i} = \left(\frac{1}{\|\boldsymbol{v_i}\|}\right) \boldsymbol{v_i}, \quad i = 1, 2, \dotsc, n
+$$构造一个规范正交集.
+
+
+
+
+
 
