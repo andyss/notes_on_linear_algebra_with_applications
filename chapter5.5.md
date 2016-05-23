@@ -74,5 +74,9 @@ $$
 \|\boldsymbol{y} - \boldsymbol{x}\| \gt \|\boldsymbol{p} - \boldsymbol{x}\|
 $$
 
+**推论** 令$$S$$为$$R^m$$的一个非零子空间，并令$$\boldsymbol{b} \in R^m$$，若$$\{\boldsymbol{u_1, u_2, \dotsc, u_n}\}$$为$$S$$的一组规范正交基，且$$U = (\boldsymbol{u_1, u_2, \dotsc, u_n})$$，则$$\boldsymbol{b}$$到$$S$$上的投影$$\boldsymbol{p}$$为
+$$
+\boldsymbol{p} = UU^T\boldsymbol{b}
+$$
 
 
