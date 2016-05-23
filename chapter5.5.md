@@ -31,7 +31,7 @@ $$构造一个规范正交集.
 $$
 \langle\boldsymbol{u}, \boldsymbol{v}\rangle = \sum_{i = 1}^n a_i b_i
 $$
-
+**推论** (帕塞瓦尔公式) 若$$\{\boldsymbol{u_1, u_2, \dotsc, u_n}\}$$为一个内积空间$$V$$的规范正交基
 
 
 
