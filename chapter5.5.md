@@ -69,5 +69,10 @@ $$
 c_i = \langle \boldsymbol{x}, \boldsymbol{u_i} \rangle
 $$则$$\boldsymbol{p} - \boldsymbol{x} \in S^\bot$$
 
+**定理** 在如上一定理的假设下，$$\boldsymbol{p}$$为$$S$$中最接近$$\boldsymbol{x}$$的元素，也就是说，对$$S$$中的任何$$\boldsymbol{y} \neq p$$，都有
+$$
+\|\boldsymbol{y} - \boldsymbol{x}\| \gt \|\boldsymbol{p} - \boldsymbol{x}\|
+$$
+
 
 
