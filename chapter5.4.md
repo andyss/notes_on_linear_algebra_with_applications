@@ -102,6 +102,9 @@ $$
 $$更为一般地，我们可以在$$R^n$$上定义一个范数，对任一实数$$p \geq 1$$，
 $$
 \|\boldsymbol{x}\|_p = \left( \sum_{i=1}^n\;|\,x_i\,|^p \right)^{1/p}
+$$特别地，若$$p = 2$$，则
+$$
+\|\boldsymbol{x}\|_2 = \left( \sum_{i=1}^n\;|\,x_i\,|^2 \right)^{1/2} = \sqrt{\langle\boldsymbol{x},\boldsymbol{x}\rangle}
 $$
 
 
