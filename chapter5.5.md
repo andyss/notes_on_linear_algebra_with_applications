@@ -27,6 +27,10 @@ $$构造一个规范正交集.
 
 **定理** 令$$\{\boldsymbol{u_1, u_2, \dotsc, u_n}\}$$为一个内积空间$$V$$的规范正交基，若$$\boldsymbol{v} = \sum_{i = 1}^nc_i\boldsymbol{u_i}$$，则$$c_i = \langle\boldsymbol{v}, \boldsymbol{u_i}\rangle$$.
 
+**推论** 令$$\{\boldsymbol{u_1, u_2, \dotsc, u_n}\}$$为一个内积空间$$V$$的规范正交基，若$$\boldsymbol{u} = \sum_{i = 1}^na_i\boldsymbol{u_i}$$及$$\boldsymbol{v} = \sum_{i = 1}^nb_i\boldsymbol{u_i}$$则
+$$
+\langle\boldsymbol{u}, \boldsymbol{v}\rangle = \sum_{i = 1}^n a_i b_i
+$$
 
 
 
