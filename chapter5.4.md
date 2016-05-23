@@ -107,4 +107,5 @@ $$
 \|\boldsymbol{x}\|_2 = \left( \sum_{i=1}^n\;|\,x_i\,|^2 \right)^{1/2} = \sqrt{\langle\boldsymbol{x},\boldsymbol{x}\rangle}
 $$
 
+范数$$\| \boldsymbol{\cdot}\|_2$$为$$R^n$$上由内积诱导的范数，若$$p \neq 2$$，则$$\| \boldsymbol{\cdot}\|_p$$并不对应于任何内积，当范数不是由内积诱导时 ，毕达哥拉斯定律并不成立
 
