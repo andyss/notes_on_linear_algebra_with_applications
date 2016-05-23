@@ -61,3 +61,13 @@ $$
 \widehat{\boldsymbol{x}} = A^T\boldsymbol{b}
 $$
 
+**定理** 令$$S$$为一个内积空间$$V$$的子空间，并令$$\boldsymbol{x} \in V$$，令$$\{\boldsymbol{u_1, u_2, \dotsc, u_n}\}$$为$$S$$的一组规范正交基，若
+$$
+p = \sum_{i = 1}^nc_i\boldsymbol{u_i}
+$$其中对每一个$$i$$，
+$$
+c_i = \langle \boldsymbol{x}, \boldsymbol{u_i} \rangle
+$$则$$\boldsymbol{p} - \boldsymbol{x} \in S^\bot$$
+
+
+
