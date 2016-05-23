@@ -16,5 +16,9 @@ $$其中$$\alpha_0 = \gamma_0 = 1$$，且
 $$
 \alpha_n = \frac{a_{n-1}}{a_n}, \quad \beta_n = \frac{\langle p_{n-1}, xp_{n-1}\rangle}{\langle p_{n-1}, p_{n-1}}, \quad \gamma_n = \frac{\langle p_n, p_n \rangle}{\langle p_{n-1}, p_{n-1}\rangle}\quad (n \geq 1)
 $$
+#### 经典正交多项式
+
+**勒让德多项式**
+
 
 
