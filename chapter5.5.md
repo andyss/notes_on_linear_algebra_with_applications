@@ -79,4 +79,7 @@ $$
 \boldsymbol{p} = UU^T\boldsymbol{b}
 $$
 
+#### 5.5.4 用三解多项式逼近
+
+
 
