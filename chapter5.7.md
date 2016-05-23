@@ -64,5 +64,12 @@ $$意义下正交，其中$$\lambda, \mu \gt -1$$
 
 **埃尔米特多项式**
 
+埃尔米特多项式定义在区间$$(-\infty, \infty)$$上，它们在内积
+$$
+\langle p, q \rangle  = \int_{-\infty}^\infty\,p(x)q(x)e^{-x^2}\mathrm{d}x
+$$意义下正交，埃尔米特多项式的递推关系为
+$$
+H_{n+1} = 2xH_n(x) - 2nH_{n-1}(x)
+$$
 
 
