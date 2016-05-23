@@ -96,4 +96,12 @@ $$
 $$定义了$$V$$上的一个范数
 
 
+另一个$$R^n$$中的重要的范数为**一致范数(uniform norm)**或者**无穷范数(infinity norm)**，定义为
+$$
+\|\boldsymbol{x}\|_\infty = \max_{1\leq i\leq n}\,|x_i|
+$$更为一般地，我们可以在$$R^n$$上定义一个范数，对任一实数$$p \geq 1$$，
+$$
+\|\boldsymbol{x}\|_p = \left( \sum_{i=1}^n\;|\,x_i\,|^p \right)^{1/p}
+$$
+
 
