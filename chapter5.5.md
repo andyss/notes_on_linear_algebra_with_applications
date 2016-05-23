@@ -49,7 +49,10 @@ $$
 * $$\langle Q\boldsymbol{x}, Q\boldsymbol{y} \rangle = \langle\boldsymbol{x},\boldsymbol{y}\rangle$$
 * $$\|Q\boldsymbol{x}\|_2 = \|\boldsymbol{x}\|_2$$
 
-#### 5.5.2 转换矩阵
+#### 5.5.2 置换矩阵
+
+**置换矩阵(permutation matrix)**是将单位矩阵的各列重排得到的矩阵，显然置换矩阵为正交矩阵.
+
 
 
 
