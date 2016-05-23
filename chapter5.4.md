@@ -72,4 +72,8 @@ $$
 $$
 \alpha = \frac{\langle\boldsymbol{u}, \boldsymbol{v}\rangle}{\|\boldsymbol{v}\|}
 $$
+且$$\boldsymbol{u}$$到$$\boldsymbol{v}$$的**向量投影(vector projection)**为
+$$
+\boldsymbol{p} = \alpha\left(\frac{1}{\|\boldsymbol{v}\|}\boldsymbol{v}\right) = \frac{\langle\boldsymbol{u}, \boldsymbol{v}\rangle}{\langle\boldsymbol{v}, \boldsymbol{v}\rangle}\boldsymbol{v}
+$$
 
