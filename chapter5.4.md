@@ -41,4 +41,18 @@ $$
 
 #### 向量空间$$P_n$$
 
+令$$x_1, x_2, \dotsc, x_n$$为不同的实数，对每一对$$P_n$$中的多项式，定义
+$$
+\langle p, q\rangle = \sum_{i = 1}^np(x_i)q(x_i)
+$$
+注意到
+$$
+\langle p, p\rangle = \sum_{i = 1}^n(p(x_i))^2 \geq 0
+$$若$$w(x)$$为一正函数，则
+$$
+\langle p, q\rangle = \sum_{i = 1}^np(x_i)q(x_i)w(x_i)
+$$
+也定义了$$P_n$$上的一个内积
+
+
 
